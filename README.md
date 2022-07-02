@@ -1,3 +1,3 @@
 # C-programme
 
-practise of C languange programme
+practical useful example for basics of C language.
