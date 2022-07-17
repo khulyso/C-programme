@@ -41,10 +41,10 @@ int main(void)
     }
     else if (index > 16)
     {
-        printf("Grade 16+\n");
+        printf("Grade 8+\n");
     }
     else
     {
-        printf("Grade %i\n", index);
+        printf("Grade %i\n", index / 2);
     }
 }
